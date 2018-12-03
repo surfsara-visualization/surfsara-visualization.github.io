@@ -1,5 +1,4 @@
 ---
-permalink: /testit
 ---
 
 # Hello there!
